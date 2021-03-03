@@ -1,0 +1,43 @@
+.Angelosandfortnite {
+    color: orange;
+    font-size:30px;
+    text-align: center;
+    line-height: 15px;
+}
+
+h2 {
+    color: green;
+    font-family: arial;
+    text-align: center;
+    
+}
+
+body {
+    background-color: crimson;
+}
+
+.spongevideo, iframe {
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+
+
+.watchspongebob {
+    text-align:center;
+    font-size:50px;
+    color:#f2ec04;
+    
+}
+
+
+.something {
+    color:blue;
+    text-align:center;
+    font-size:50px
+}
+
+a {
+    color:white;
+}
